@@ -19,4 +19,8 @@ int main(){
 	anggrek.tumbuh = "Tumbuhnya Di Dataran Tinggi dan Rendah ";
 	edelweis.tumbuh = "Tumbuhnya Di Pegunungan ";
 	
+	mawar.bau = "Baunya Sangat Harum ";
+	anggrek.bau = "Baunya Harum ";
+	edelweis.bau = "Baunya Harum ";
+	
 };
