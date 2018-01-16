@@ -31,5 +31,6 @@ int main(){
 	edelweis.berduri("Batang Yang Tidak Berduri");
 	
 }
-
-};
+void bunga::berduri(string duri){
+	cout<<"Memiliki "<<duri<<"\n";
+}
