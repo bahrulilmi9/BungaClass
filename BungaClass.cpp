@@ -23,4 +23,13 @@ int main(){
 	anggrek.bau = "Baunya Harum ";
 	edelweis.bau = "Baunya Harum ";
 	
+	cout<<"Bunga Mawar "<< (mawar.warna) << (mawar.tumbuh) << (mawar.bau);
+	mawar.berduri("Batang Yang Berduri");
+	cout<<"Bunga Anggrek "<< (anggrek.warna) << (anggrek.tumbuh) << (anggrek.bau);
+	anggrek.berduri("Batang Yang Tidak Berduri");
+	cout<<"Bunga Edelweis "<< (edelweis.warna) << (edelweis.tumbuh) << (edelweis.bau);
+	edelweis.berduri("Batang Yang Tidak Berduri");
+	
+}
+
 };
