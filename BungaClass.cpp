@@ -11,4 +11,8 @@ class bunga{
 int main(){
 	bunga mawar, anggrek, edelweis;
 	
+	mawar.warna = "Berwarna Putih dan Merah ";
+	anggrek.warna = "Berwarna Ungu dan Putih ";
+	edelweis.warna = "Berwarna Putih ";
+	
 };
