@@ -15,4 +15,8 @@ int main(){
 	anggrek.warna = "Berwarna Ungu dan Putih ";
 	edelweis.warna = "Berwarna Putih ";
 	
+	mawar.tumbuh = "Tumbuhnya Di Dataran Rendah ";
+	anggrek.tumbuh = "Tumbuhnya Di Dataran Tinggi dan Rendah ";
+	edelweis.tumbuh = "Tumbuhnya Di Pegunungan ";
+	
 };
