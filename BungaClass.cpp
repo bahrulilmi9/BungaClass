@@ -9,6 +9,6 @@ class bunga{
 };
 
 int main(){
-	
+	bunga mawar, anggrek, edelweis;
 	
 };
